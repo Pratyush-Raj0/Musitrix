@@ -1,2 +1,2 @@
-# Modem
+#Musitrix
 Playing on Discord 
