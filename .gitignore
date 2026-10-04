@@ -1,0 +1,6 @@
+node_modules/
+.env
+/data/antimessages.json
+/data/antimessages.json.tmp
+npm-debug.log*
+.DS_Store
